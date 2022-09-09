@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MIDIUtil.iml" filepath="$PROJECT_DIR$/.idea/MIDIUtil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PyDAW/.idea/PyDAW.iml" filepath="$PROJECT_DIR$/../PyDAW/.idea/PyDAW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pydaw-projects/.idea/pydaw-projects.iml" filepath="$PROJECT_DIR$/../pydaw-projects/.idea/pydaw-projects.iml" />
+    </modules>
+  </component>
+</project>
